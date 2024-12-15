@@ -109,23 +109,6 @@ Created with ❤️ by Teshi - Amber.
 - Console, Elements, Network, Resources, Sources, DOM
 - Activate from Start Menu or **_SHIFT+F12_**
 
-### [EmulatorJS](https://github.com/ethanaobrien/emulatorjs) (**_.32x, .a26, .a52, .a78, .gb, .gba, .gbc, .gen, .gg, .j64, .jag, .lnx, .n64, .nds, .nes, .ngc, .ngp, .pce, .sfc, .smc, .smd, .sms, .v64, .vb, .vboy, .ws, .wsc, .z64_**)
-
-- Plays console game roms
-
-### [IRC](https://kiwiirc.com/)
-
-- Internet Relay Chat Client
-- Connects over WebSockets
-
-### [js-dos](https://js-dos.com/) (**_.exe, .jsdos, .zip_**)
-
-- DOS emulator
-- Automatic save states on close
-  - /Users/Public/Snapshots
-- Automatic window resize
-
-
 - Markdown Viewer
 
 
@@ -140,11 +123,6 @@ Created with ❤️ by Teshi - Amber.
 
 - Create & edit images
 
-### [PDF](https://mozilla.github.io/pdf.js/) (**_.pdf_**)
-
-- Render/Print PDF's
-- Page current/count & Zoom
-
 ### Photos
 
 - [Supported Formats](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#supported_image_formats)
@@ -153,42 +131,6 @@ Created with ❤️ by Teshi - Amber.
   - [QOI](https://gist.github.com/nicolaslegland/f0577cb49b1e56b729a2c0fc0aa151ba) (**_.qoi_**)
   - [TIFF](https://github.com/photopea/UTIF.js) (**_.tif, .tiff_**)
 - Fullscreen & [Zoom](https://github.com/anvaka/panzoom)
-
-### [Ruffle](https://ruffle.rs/) (**_.swf, .spl_**)
-
-- Flash Player emulator
-
-### [Stable Diffusion](https://stability.ai/stable-diffusion)
-
-- Creates 512x512 images using artificial intelligence
-- Runs locally using [WebSD](https://mlc.ai/web-stable-diffusion/)
-
-### [Terminal](https://xtermjs.org/)
-
-- File system support
-- Autocomplete & history
-- Pipe commands together
-- Command list via `help`
-- [Git support](https://isomorphic-git.org/) (checkout & clone)
-- [Python support](https://pyodide.org/) (**_.py_**)
-- [WebAssembly Package Manager](https://wapm.io/)
-  - Ex: `wapm cowsay moo` ([\#](https://wapm.io/package/cowsay))
-- [Weather information](https://wttr.in/)
-- [eSheep](https://adrianotiger.github.io/web-esheep/)
-- Activate from Start Menu or **_SHIFT+F10_**
-- Neofetch
-
-### [TinyMCE](https://www.tiny.cloud/tinymce/) (**_.rtf, .whtml_**)
-
-- Read & WYSIWYG modes
-- File save support
-
-### [Virtual x86](https://copy.sh/v86/) (**_.img, .iso_**)
-
-- x86 emulator
-- Automatic save states on close
-  - /Users/Public/Snapshots
-- Automatic window resize
 
 ### [Video Player](https://videojs.com/)
 
@@ -201,22 +143,7 @@ Created with ❤️ by Teshi - Amber.
 - Code/text editor
 - Supports all file types
 
-### [Webamp](https://webamp.org/) (**_.mp3, .wsz_**)
-
-- Winamp audio player
-- [Skin support](https://skins.webamp.org/)
-- Playlist & streaming support
-- Visualization support (["Milkdrop"](https://github.com/jberg/butterchurn))
-
 # Games 🎮
-
-### [ClassiCube](https://www.classicube.net/)
-
-- Minecraft Classic compatible client
-
-### [DX-Ball](https://habr.com/en/post/147339/)
-
-- Block breaker arcade game like Arkanoid
 
 ### [Space Cadet Pinball](https://github.com/alula/SpaceCadetPinball)
 
