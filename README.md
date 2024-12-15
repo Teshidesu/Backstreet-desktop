@@ -37,28 +37,6 @@ Created with ❤️ by Teshi - Amber.
 - Allow sorting by name, size, type or date
   - Persists icon position/sort order
 
-### Windows
-
-- [Resizable and Draggable](https://github.com/bokuweb/react-rnd)
-- Minimize, Maximize & Close
-- Persists size/position/maximized states
-- [Animates](https://www.framer.com/motion/) opening and closing
-
-### Start Menu
-
-- Expandable Sidebar
-  - Apps list, Documents/Pictures/Videos shortcuts, Power (clears session)
-- Spotlight visual effect
-- Folder support
-- Keyboard shortcut opens with **_SHIFT+ESC_**
-  - Or Windows Key when in fullscreen
-
-### Taskbar
-
-- [Peek](https://github.com/bubkoo/html-to-image) hover preview of windows
-- Focused window indicator
-- Search menu (w/Recent files)
-- AI Chat Agent ([Prompt API](https://docs.google.com/document/d/1VG8HIyz361zGduWgNG7R_R8Xkv0OOJ8b5C9QKeCjU0c/edit) & [WebLLM](https://github.com/mlc-ai/web-llm)) (w/Summarize & Image Generation)
 
 ### Clock
 
@@ -88,11 +66,6 @@ Created with ❤️ by Teshi - Amber.
     - `/?url=/CREDITS.md`
     - `/?app=Browser`
 
-# Apps 🧪
-
-### [BoxedWine](http://www.boxedwine.org/) (**_.exe, .zip_**)
-
-- Runs 16/32-bit Windows applications
 
 ### Browser (**_.htm, .html_**)
 
